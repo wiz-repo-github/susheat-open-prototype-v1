@@ -100,14 +100,10 @@ git clone https://github.com/wiz-repo-github/susheat-open-prototype-v1.git
 
 For AI training : 
 
-Unity 2021.3 LTS or newer
-
-ML-Agents Toolkit (v2.0 or higher)
-
-Anaconda (for managing the training environment)
-
-Python 3.8+
-
-ML-Agents
+    Unity 2021.3 LTS or newer
+    ML-Agents Toolkit (v2.0 or higher)
+    Anaconda (for managing the training environment)
+    Python 3.8+
+    ML-Agents
 
 
